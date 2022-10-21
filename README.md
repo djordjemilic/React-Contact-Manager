@@ -4,7 +4,7 @@
 
 Contact manager
 
-Add or delete your contacts
+Add or delete your contacts.
 Saved on local storage
 
 
